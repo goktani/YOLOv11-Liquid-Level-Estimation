@@ -32,7 +32,7 @@ The project utilizes the **SAM2 Liquid Sem Segmentation** dataset from Roboflow,
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/goktani/YOLOv11-Liquid-Level-Estimation.git](https://github.com/goktani/YOLOv11-Liquid-Level-Estimation.git)
+    git clone https://github.com/goktani/YOLOv11-Liquid-Level-Estimation.git
     cd YOLOv11-Liquid-Level-Estimation
     ```
 
